@@ -1,5 +1,5 @@
 const dotenv = require('dotenv').config();
-const { v2, cloudinary } = require('cloudinary');
+const cloudinary = require('cloudinary').v2
 
 const Post = require('../models/post');
 

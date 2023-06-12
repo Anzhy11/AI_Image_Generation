@@ -16,19 +16,11 @@ const App = () => {
           Create
         </Link>
       </header>
-<<<<<<< HEAD
-      <main className="sm:p-8 px-4 py-8 w-full bg-[#f9fafe] min-h-[calc(100vh-73px)]">
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/create-post" element={<CreatePost />} />
-      </Routes>
-=======
       <main className="sm:p-8 px-4 py-8 w-full bg-[#f9fafe] min-h-[100vh]">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/create-post" element={<CreatePost />} />
         </Routes>
->>>>>>> df173a6a5ea66703f7157eeb9f1ac61f9ab1a4c6
       </main>
     </>
   );

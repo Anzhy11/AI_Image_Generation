@@ -1,9 +1,7 @@
-function App() {
+const App = () => {
   return (
-    <div className="flex justify-center items-center text-blue-400">
-      <div>home</div>
-    </div>
+    <div className="flex justify-center items-center text-blue-300">App</div>
   );
-}
+};
 
 export default App;

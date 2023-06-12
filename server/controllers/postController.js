@@ -10,8 +10,14 @@ cloudinary.config({
 });
 
 const getAllPosts = async (req, res) => {
-  res.send('hallo there')
-}
+  try {
+    const posts = await Post.find({});
+
+    res.status(200).json({ sucess: true, data: posts });
+  } catch (error) {
+    res.status(500).json({ success: false, message: error });
+  }
+};
 
 const createPost = async (req, res) => {
   const { name, prompt, photo } = req.body;

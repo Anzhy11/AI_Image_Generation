@@ -7,6 +7,10 @@ const configuration = new Configuration({
 
 const openai = new OpenAIApi(configuration);
 
+const intro = async (req, res) => {
+  res.status(200).json({ message: 'Hello from DALL-E!' });
+}
+
 const getImage = async (req, res) => {
   try {
     const { prompt } = req.body;
@@ -27,4 +31,4 @@ const getImage = async (req, res) => {
   }
 }
 
-module.exports = { getImage };
+module.exports = { intro, getImage };

@@ -1,5 +1,8 @@
 # ALX Porfolio Project - AI Image Generation App
 
+## Deploy Link
+http://ai-image-generator-alx.netlify.app/
+
 AI Image Generation App using DALL·E API
 This project is an AI Image Generation app that utilizes the DALL·E API for generating images. DALL·E is a deep learning model developed by OpenAI that can generate images from textual descriptions.
 

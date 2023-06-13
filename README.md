@@ -35,11 +35,13 @@ Navigate to the project directory:
 ```
 cd ai-image-generation-app/server
 ```
+
 Install dependencies:
 
 ```
 npm install
 ```
+
 ### Backend Configuration
 
 Visit MongoDB Atlas to get a MongoDB URI. Follow the MongoDB documentation to get the URI.
@@ -55,8 +57,8 @@ CLOUDINRY_CLOUD_NAME = your-cloudinary-cloud-name
 CLOUDINRY_API_KEY = your-cloudinary-api-key
 CLOUDINRY_API_SECRETE = your-cloudinary-api-secret
 ```
-Replace your-\* with your details.
 
+Replace your-\* with your details.
 
 ### Frontend Installation
 

@@ -1,21 +1,52 @@
 # ALX Porfolio Project - AI Image Generation App
 
-### Deploy Link
-
-http://ai-image-generator-alx.netlify.app/
+<a href="https://ai-image-generator-alx.netlify.app/">
+    <img src="https://imgur.com/iebo15s" alt="AI-image-Generator" title="AI_Image_Generator">
+</a>
 
 AI Image Generation App using DALL·E API
 This project is an AI Image Generation app that utilizes the DALL·E API for generating images. DALL·E is a deep learning model developed by OpenAI that can generate images from textual descriptions.
 
-### Technologies Used
+## Table of content
+
+- [Technologies Used](#technologies-used)
+- [Screenshots](#screenshots)
+- [Getting Started](#features)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+  - [Backend installation](#backend-installation)
+  - [Backend Configuration](#backend-configuration)
+  - [Frontend Installation](#frontend-installation)
+  - [Frontend Configuration](#frontend-configuration)
+- [Usage](#usage)
+  - [Backend](#backend)
+  - [Frontend](#frontend)
+- [Futures](#future)
+- [Authors](#authors)
+  - [Ahmed Adebayo](#ahmed-adebay)
+  - [Aminat Adebayo](#aminat-adebayo)
+- [Acknowledgments](#acknowledgements)
+- [Contact](#contact)
+
+## Technologies Used
 
 - DALL·E API
 - Cloudinary
 - MERN stack (MongoDB, Express.js, React.js, Node.js)
 
+## Screenshots
+
+<img width=50% src="https://imgur.com/lTqnZJ1">
+
+<img width=50% src="https://imgur.com/rEixsEs">
+
+<img width=50% src="https://i.imgur.com/6mkexPV.png">
+
+<img width=50% src="https://https://imgur.com/Efov9X5">
+
 ## Getting Started
 
-### Prerequisites
+## Prerequisites
 
 - Node.js (version 12 or above)
 - npm (version 6 or above)
@@ -108,14 +139,14 @@ The generated image will be displayed on the screen.
 
 Click the share button to share the image.
 
-### Features:
+## Features:
 
 - Generate high-quality images based on textual descriptions
 - Easy-to-use interface for entering descriptions and viewing generated images
 - Fast and efficient image generation using the DALL·E API
 - Image cloud storage using Cloudinary
 
-## Contributors:
+## Authors:
 
 - Ahmed Adebayo: [GitHub](https://github.com/anzhy11) || [Article](https://www.linkedin.com/pulse/building-ai-image-generator-using-mern-stack-dalle-api-ahmed-adebayo) || [LinkedIn](https://www.linkedin.com/in/ahmed-adebayo-a84676236)
 - Aminat Adebayo: [GitHub](https://github.com/aminat27)
@@ -123,13 +154,13 @@ Click the share button to share the image.
 License
 This project is licensed under the MIT License.
 
-### Acknowledgements
+## Acknowledgements
 
 OpenAI for developing the DALL·E model and providing the API.
 Cloudinary for cloud storage.
 React for the UI framework.
 Node.js and Express for the server-side implementation.
 
-### Contact
+## Contact
 
 For any questions or inquiries, please contact a.adelat@gmail.com.

@@ -117,7 +117,7 @@ Click the share button to share the image.
 
 ## Contributors:
 
-- Ahmed Adebayo: [GitHub](https://github.com/anzhy11) [Article](https://www.linkedin.com/pulse/building-ai-image-generator-using-mern-stack-dalle-api-ahmed-adebayo)
+- Ahmed Adebayo: [GitHub](https://github.com/anzhy11) || [Article](https://www.linkedin.com/pulse/building-ai-image-generator-using-mern-stack-dalle-api-ahmed-adebayo) || [LinkedIn](https://www.linkedin.com/in/ahmed-adebayo-a84676236)
 - Aminat Adebayo: [GitHub](https://github.com/aminat27)
 
 License

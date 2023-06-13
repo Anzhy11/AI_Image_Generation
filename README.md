@@ -1,7 +1,7 @@
 # ALX Porfolio Project - AI Image Generation App
 
 <a href="https://ai-image-generator-alx.netlify.app/">
-    <img src="https://imgur.com/iebo15s" alt="AI-image-Generator" title="AI_Image_Generator">
+    <img src="https://i.imgur.com/R3SITjN.png" alt="AI-image-Generator" title="AI_Image_Generator">
 </a>
 
 AI Image Generation App using DALL·E API
@@ -36,13 +36,13 @@ This project is an AI Image Generation app that utilizes the DALL·E API for gen
 
 ## Screenshots
 
-<img width=50% src="https://imgur.com/lTqnZJ1">
+<img width=50% src="https://i.imgur.com/93KrDYu.png">
 
-<img width=50% src="https://imgur.com/rEixsEs">
+<img width=50% src="https://i.imgur.com/UYtzpLE.png">
 
-<img width=50% src="https://i.imgur.com/6mkexPV.png">
+<img width=50% src="https://i.imgur.com/UVMONxR.png">
 
-<img width=50% src="https://https://imgur.com/Efov9X5">
+<img width=50% src="https://i.imgur.com/VX4u53m.png">
 
 ## Getting Started
 

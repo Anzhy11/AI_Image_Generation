@@ -1,6 +1,7 @@
 # ALX Porfolio Project - AI Image Generation App
 
-## Deploy Link
+
+### Deploy Link
 http://ai-image-generator-alx.netlify.app/
 
 AI Image Generation App using DALL·E API
